@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">UsosClient</string>
+    <string name="base_url">https://apps.usos.uksw.edu.pl</string>
+    <string name="consumer_key">26DYUWpXK4qh7sChfdLs</string>
+    <string name="consumer_sercret">4hZ486LpvhVR2M6XMCvxaxfndCcVGmjsKjDmaJyS</string>
+    <string name="oauth_version">1.0</string>
 </resources>
