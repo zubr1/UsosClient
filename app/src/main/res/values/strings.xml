@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">UsosClient</string>
+
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="ok">Ok</string>
+
+    //no connection messages
+    <string name="enable_network">Brak połączenia z siecią. Podłącz urządzenie do sieci i wybierz "Ok"</string>
+    <item name="textViewName" type="id">dds</item>
 </resources>
