@@ -10,11 +10,6 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
-        try {
-            Thread.sleep(3000);
-        } catch (Exception e) {
-            e.getLocalizedMessage();
-        }
         Intent i = new Intent(getApplicationContext(), LoginActivity.class);
         startActivity(i);
     }
